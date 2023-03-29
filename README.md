@@ -1,4 +1,4 @@
-## The art of naming variables
+## The art of naming variables (My variation)
 ## Arrays
 ```javascript
 // bad
